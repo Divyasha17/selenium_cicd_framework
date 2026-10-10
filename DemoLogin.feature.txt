@@ -1,0 +1,7 @@
+Feature: Practice Login Application
+Given Open the chrome browser
+And Navigate to the application
+Then Enter the username
+And Enter the password
+When Click the login
+Then application should be landed in the home page 
